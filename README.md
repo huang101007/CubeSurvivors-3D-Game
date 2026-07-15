@@ -4,6 +4,42 @@
 ## 遊戲簡介
 在Cube Survivors中，玩家必須在封閉的競技場中無盡的敵人攻勢下生存。透過擊殺敵人，玩家可以收集EXP寶石來升級並獲取隨機的能力強化。撐到倒數計時結束即可獲得勝利！
 
+## 遊戲畫面
+
+**主畫面**
+
+<img width="1278" height="710" alt="主畫面" src="https://github.com/user-attachments/assets/02bf061e-8f3f-4937-a09a-499f96cb6f52" />
+
+---
+**選擇關卡**
+
+<img width="1277" height="708" alt="選擇關卡" src="https://github.com/user-attachments/assets/62a7b5a9-b82a-41e7-a5c6-168cb8dd8bea" />
+
+---
+**生存前期**
+只有黃色近戰小兵
+
+<img width="1271" height="706" alt="image" src="https://github.com/user-attachments/assets/e6583a1f-ab66-4f14-b990-e156c29bb49b" />
+
+---
+**生存中期**
+開始出現紅色遠程小兵、隨機回血包
+
+<img width="1272" height="702" alt="image" src="https://github.com/user-attachments/assets/4d12bc3b-21bf-44a2-9496-4324b61eac5c" />
+
+---
+**生存後期**
+開始出現boss，會吐石頭攻擊，可依靠場上障礙物躲避，若擊敗會獲得大量經驗值
+
+<img width="1266" height="703" alt="image" src="https://github.com/user-attachments/assets/38247b5b-f091-481d-b0c5-13018699eb93" />
+
+---
+**升級畫面**
+有七種隨機技能可以選擇(Heal、Fire Rate、Damage、Multi-Shot、Move Speed、Bullet Speed與Bullet Size)
+
+<img width="1266" height="698" alt="image" src="https://github.com/user-attachments/assets/a1f1839f-cbfc-466f-8f94-b69004a3ee88" />
+
+
 ## 核心特色
 * 俯視角射擊機制：平滑的攝影機跟隨與自動瞄準系統。
 * Roguelite升級系統：升級時隨機抽取技能(包含Heal、Fire Rate、Damage、Multi-Shot、Move Speed與Bullet Size)。
