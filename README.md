@@ -40,6 +40,13 @@
 <img width="1266" height="698" alt="image" src="https://github.com/user-attachments/assets/a1f1839f-cbfc-466f-8f94-b69004a3ee88" />
 
 
+---
+**勝利畫面**
+存活超過指定時間即可獲勝
+
+<img width="1275" height="701" alt="image" src="https://github.com/user-attachments/assets/b6324b1f-3bc5-4b91-bed1-78b413068c05" />
+
+---
 ## 核心特色
 * 俯視角射擊機制：平滑的攝影機跟隨與自動瞄準系統。
 * Roguelite升級系統：升級時隨機抽取技能(包含Heal、Fire Rate、Damage、Multi-Shot、Move Speed與Bullet Size)。
